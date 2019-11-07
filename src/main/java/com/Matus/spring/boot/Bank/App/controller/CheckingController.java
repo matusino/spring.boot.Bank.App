@@ -54,8 +54,4 @@ public class CheckingController {
         checkingCrudService.deleteCheckingAcc(id);
     }
 
-    public void kakanec(){
-
-    }
-
 }
